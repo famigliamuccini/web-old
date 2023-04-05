@@ -12,6 +12,7 @@
 > Website institucional para o Ristorante Famiglia Muccini, com intuito de divulgar e informar o público sobre o estabelecimento.
 
 <hr>
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
