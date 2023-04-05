@@ -49,6 +49,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 </div>
 
 <br>
+
 <!-- ### Equipe
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
